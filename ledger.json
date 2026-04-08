@@ -6,5 +6,13 @@
     "output_hash": "f6e5d4c3b2a1",
     "previous_hash": "000000000000",
     "event_hash": "c6a0f4c4a39e3c4fd5d8f4e94f70f7cbef9c5b6d0a6e4b3b2a9c5d6f8e1f2c3a"
+  },
+  {
+    "event_id": "002",
+    "timestamp": "2026-04-07T21:50:00Z",
+    "input_hash": "123abc456def",
+    "output_hash": "fed654cba321",
+    "previous_hash": "c6a0f4c4a39e3c4fd5d8f4e94f70f7cbef9c5b6d0a6e4b3b2a9c5d6f8e1f2c3a",
+    "event_hash": "verify.py"
   }
 ]
